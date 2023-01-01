@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-block",
+  "version": "1.0.0",
+  "description": "Following official WordPress block documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveendias1180/wordpress-block.git"
+  },
+  "keywords": [
+    "block",
+    "wp-block"
+  ],
+  "author": "Praveen Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praveendias1180/wordpress-block/issues"
+  },
+  "homepage": "https://github.com/praveendias1180/wordpress-block#readme"
+}
