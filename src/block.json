@@ -1,0 +1,8 @@
+{
+    "apiVersion": 2,
+    "title": "Basic 1180",
+    "name": "praveendias1180/test-block",
+    "category": "layout",
+    "icon": "universal-access-alt",
+    "editorScript": "file:./build/index.js"
+}
