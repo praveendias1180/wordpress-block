@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/praveendias1180/wordpress-block/issues"
   },
-  "homepage": "https://github.com/praveendias1180/wordpress-block#readme"
+  "homepage": "https://github.com/praveendias1180/wordpress-block#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "25.0.0"
+  }
 }
